@@ -1,6 +1,9 @@
-# Getting Started with Create React App
-
+# Getting Started with React Music Player
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# What is the React Music Player?
+It's a simple project that uses music from Chillhop including the covers of said albums to play music online by streaming them from the website.
+You've got simple play/pause functions as well as skipping back and forth, as well as extensive use of props and states to manage the app.
 
 ## Available Scripts
 
