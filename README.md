@@ -1,3 +1,6 @@
+# Check out the live version!
+You can check the live version of this code here: https://stoon2.github.io/react-music-player/
+
 # What is the React Music Player?
 It's a simple project that uses music from Chillhop including the covers of said albums to play music online by streaming them from the website.
 You've got simple play/pause functions as well as skipping back and forth, as well as extensive use of props and states to manage the app.
